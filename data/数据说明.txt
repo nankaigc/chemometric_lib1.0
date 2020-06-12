@@ -1,0 +1,29 @@
+
+data2_nir_shootout_2002：       IDRC2002年提供药片NIR投射数据，两台仪器采集。
+data3_corn：                    PLS_toolbox网站下载玉米NIR数据，三台仪器采集，每台80条光谱。
+data4_SWRI_Diesel_NIR：         PLS_toolbox网站下载燃料NIR数据，目标值有缺失。
+data5_1659_samples_component：  1659条烟草光谱，详情未知。
+data6_tobacco117：              贵州中烟提供成品卷烟117条烟末NIR数据，一台仪器采集，粉末粒度分别为40母和80母。
+data7_IDRCShootOut2010Transmit：IDRC2010年提供190条来自世界各大油田的石油NIR投射光谱。
+data8_IDRCShootOut2010Reflect： IDRC2010年提供231条气体混合物NIR投射光谱。
+data9_NIRdata_tablets：         网络提供310条药片NIR光谱。Applied Spectroscopy 56(5): 579 585 (2002)
+data10_Ramandata_tablets：      网络提供120条NIR药片 FT Raman光谱。Applied Spectroscopy 56(5): 579 585 (2002)
+data11_marzipanWEBdata：（数据集太少，仪器很多）        网络提供，采集自7台NIR和IR仪器的32个杏仁样品。Journal of Near Infrared Spectroscopy, vol 12, No. 1 (2004)
+data12_NIR_sugar：（数据多）              网络提供，采集1797个橘类的NIR光谱。J. Near Infrared Spectrosc. 23, 75–84 (2015)
+data13_NIRsoil：（targ1不行）                网络提供，采集108条北极土壤光谱。Soil Biology & Biochemistry, 39, 1664–1673
+data14_NITSingleSeed：          网络提供，525条小麦NIR光谱。Analysis of NIT spectra of single wheat seeds. Applied Spectroscopy, submitted
+data15_RAMANPorkFat：（无法建模）           网络提供，105条猪肉的Raman光谱。Journal of Raman Spectroscopy, 43, 482-489
+data16_shao_ynzy:               邵老师提供1003组烟草数据，五台仪器采集。
+data17_carra：                  网络提供
+data18_gasoil：                 网络提供
+data19_water：                  网络提供
+data20_bp50gatest：             PLS_toolbox提供汽油NIR光谱和50℃
+data21_cngatest：               PLS_toolbox提供汽油NIR光谱和
+data22_d4052gatest：            PLS_toolbox提供汽油NIR光谱和
+data23_freezegatest：           PLS_toolbox提供汽油NIR光谱和
+data24_totalgatest：            PLS_toolbox提供汽油NIR光谱和
+data25_viscgatest：             PLS_toolbox提供汽油NIR光谱和
+
+
+data28_amylose                 Dataset of Near-infrared spectroscopy measurement for amylose determination using PLS algorithms
+另有部分搜集的数据已经查不到从网站上下载下来的原始数据了，不敢保证其真实性，因此没有汇总。
