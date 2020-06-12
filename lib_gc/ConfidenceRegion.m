@@ -127,8 +127,8 @@ if tag == 1
     bb = sqrt(r/D(4));
     t = linspace(0, 2*pi, 60);
     xy = V*[aa*cos(t);bb*sin(t)];  % 坐标旋转
-    h = plot(xy(1,:)+xc(1),xy(2,:)+xc(2), 'k', 'linewidth', 1);
-    
+    h = plot(xy(1,:)+xc(1),xy(2,:)+xc(2), 'k', 'linewidth', 1);hold on;
+    h=fill(xy(1,:)+xc(1),xy(2,:)+xc(2),'cyan');h.FaceAlpha=0.2;
 else
     aa = sqrt(r/D(1,1));
     bb = sqrt(r/D(2,2));
